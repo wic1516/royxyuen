@@ -1,0 +1,13 @@
+print('Write down your name')
+name = input(str)
+print('Write down your age')
+age = input(int)
+
+if name == 'Alice':
+    print('Hi, Alice.')
+elif age < 12:
+    print('You are Alice, kiddo')
+elif age == 12:
+    print('You are not Alice, kiddo')
+elif age :
+    print('You are not Alice, granny.')
